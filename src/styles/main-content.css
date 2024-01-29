@@ -157,7 +157,7 @@ none: Um elemento com display: none é completamente removido do fluxo de layout
   
   /* SCROLL */
   .offer__scroll-container {
-    max-height: 60vh;
+    max-height: 50vh;
     margin: 3rem;
     overflow-y: auto;
     -ms-overflow-style: none;  /* removendo scrollbar  IE and Edge */

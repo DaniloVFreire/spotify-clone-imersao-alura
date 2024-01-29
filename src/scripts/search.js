@@ -22,6 +22,7 @@ function requestApi(searchTerm) {
  */
 function displayResults(results) {
   console.log(results);
+  //let cardsContainer = document.getElementById("search-input");
   hidePlaylists();
   const artistImage = document.getElementById("artist-img");
   const artistName = document.getElementById("artist-name");
