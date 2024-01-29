@@ -4,7 +4,7 @@ Um clone do front-end da landing page do spotify, feito seguindo a imersão fron
 
 ## Para rodar:
 
-instalar live server pelo vscode ou node
+instalar live server pelo vscode ou node  
 instalar json server versão 0.17.4
 
 ```bash
