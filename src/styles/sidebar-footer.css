@@ -61,7 +61,7 @@ body {
 .library {
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    flex: 1;
     color: var(--text-sub-light);
     font-weight: 600;
     border-radius: 0.5rem; /* 8px para rem */

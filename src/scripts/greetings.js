@@ -15,8 +15,6 @@ if (currentHour >= 5 && currentHour < 12) {
   greetingElement.textContent = "Boa noite";
 }
 
-greetingElement.textContent = greetingMessage;
-
 // GRID INTELIGENTE
 const container = document.querySelector(".offer__list-item");
 
