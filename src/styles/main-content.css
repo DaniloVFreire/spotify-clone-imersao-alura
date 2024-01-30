@@ -268,7 +268,7 @@ none: Um elemento com display: none é completamente removido do fluxo de layout
   }
   
   .grid-container {
-    grid-gap: var(--grid-gap);
+    grid-gap: 54px;
     display: grid;
     grid-template-columns: repeat(var(--column-count), minmax(0, 1fr));
     min-width: var(--min-container-width);
